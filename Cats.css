@@ -1,0 +1,22 @@
+.Cats {
+  text-align: center;
+  padding: 20px;
+}
+
+.Cats h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+
+.CatImages {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.CatImages img {
+  max-width: 500px; 
+  max-height: 500px; 
+  margin: 20px; 
+}
